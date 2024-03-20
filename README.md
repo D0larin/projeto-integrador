@@ -8,8 +8,7 @@
 
 # Nome do Projeto
 
-<!-- Substitua a seguinte imagem por uma logo do seu projeto -->
-<img src="img/logo.png" width="150px">
+TAKEAWAY
 
 <!-- Substitua o seguinte parágrafo por um resumo do seu projeto: -->
 Esse é o projeto foi criado a fim de ajudar intituições acadêmicas a organizar os alunos com seus respectivos professores, e os professores em suas respectivas salas para que não haja confusão e utilização de mesma sala
@@ -24,4 +23,4 @@ Esse é o projeto foi criado a fim de ajudar intituições acadêmicas a organiz
 <!-- Coloque seu nome, uma foto sua e uma pequena bio sobre você na seguinte tabela: -->
 |  |  |
 |:-------------:|:------------------------------------------------------------:|
-|  <img src="img/profilepic.png" width="150px"></br> **João Vitor Duarte Martins de Souza** | Sou um progamador iniciante com conhecimento em nas linguagens python; html; css, além disso curso ECA (Engenharia de Controle e Automação) na UFMT (Universidade Federal de Mato Grosso |
+| **João Vitor Duarte Martins de Souza** | Sou um progamador iniciante com conhecimento em nas linguagens python; html; css, além disso curso ECA (Engenharia de Controle e Automação) na UFMT (Universidade Federal de Mato Grosso |
