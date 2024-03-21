@@ -4,10 +4,10 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# TAKEAWAY
+# SUOMP (Sistema único de organização e manejamento de pessoas)
 
 <!-- Substitua o seguinte parágrafo por um resumo do seu projeto: -->
-Esse projeto foi criado a fim de ajudar intituições acadêmicas a organizar os alunos com seus respectivos professores, e os professores em suas respectivas salas para que não haja confusão e utilização de mesma sala
+Esse projeto foi criado a fim de ajudar as intituições acadêmicas a organizar os alunos com seus respectivos professores, e os professores em suas respectivas salas para que não haja confusão com utilização de uma mesma sala
 
 ## Documentação
 
