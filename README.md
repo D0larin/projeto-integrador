@@ -4,9 +4,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# Nome do Projeto
-
-TAKEAWAY
+# TAKEAWAY
 
 <!-- Substitua o seguinte parágrafo por um resumo do seu projeto: -->
 Esse projeto foi criado a fim de ajudar intituições acadêmicas a organizar os alunos com seus respectivos professores, e os professores em suas respectivas salas para que não haja confusão e utilização de mesma sala
